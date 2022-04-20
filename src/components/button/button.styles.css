@@ -39,3 +39,12 @@
     color: white;
     border: none;
 }
+
+
+.buttons-container {
+    display: flex;
+}
+
+.button-container {
+    margin-right: 10px;
+}
