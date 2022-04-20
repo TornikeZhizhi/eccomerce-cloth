@@ -4,6 +4,7 @@
     display: flex;
     justify-content: space-between;
     margin-bottom: 25px;
+    border-bottom: 1px solid #ccc;
 }
 .navigation .logo-container {
     height: 100%;
